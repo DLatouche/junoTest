@@ -1,7 +1,7 @@
 {
-    "name": "TestSwap",
-    "type": "Swap tool",
-    "state": 0,
+    "name": "TestPomme",
+    "type": "Pomme tool",
+    "state": 1,
     "twitter_link": "twitter.com",
     "tg_link": "t.me/aaa",
     "address": "0xAFOJFIFJIFH"
