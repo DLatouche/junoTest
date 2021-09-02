@@ -1,5 +1,6 @@
 {
     "name": "TestSwap",
+    "image": "test.png",
     "type": "Swap tool",
     "state": 0,
     "twitter_link": "twitter.com",
