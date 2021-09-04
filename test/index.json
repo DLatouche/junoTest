@@ -1,7 +1,8 @@
 {
     "name": "TestSwap",
     "image": "test.png",
-    "type": "Swap tool",
+    "type": "Contracts",
+    "contract_id": 2,
     "state": 0,
     "twitter_link": "twitter.com",
     "tg_link": "t.me/aaa",
